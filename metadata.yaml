@@ -1,0 +1,48 @@
+_repo: Hillsboro-People_13091
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Cleghorn, Sarah Norcliffe
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '37545'
+    url: http://www.gutenberg.org/2009/agents/37545
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fisher, Dorothy Canfield
+    aliases:
+    - Canfield, Dorothea F.
+    - Canfield, Dorothy
+    - Fisher, Mrs. John Redwood
+    - Fisher, Dorothea Frances Canfield
+    birthdate: 1879
+    deathdate: 1958
+    gutenberg_agent_id: '1781'
+    url: http://www.gutenberg.org/2009/agents/1781
+    wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
+description: ''
+gutenberg_issued: '2004-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Vermont -- Poetry'
+- !lcc 'PS'
+tableOfContents: 'Vermont (poem) -- Hemlock Mountain (poem) -- At the foot of Hemlock
+  Mountain -- Petunias: that''s for remembrance -- The heyday of the blood -- As a
+  bird out of the snare -- The bedquilt -- Portrait of a philosopher -- Flint and
+  fire -- A saint''s hours (poem) -- In memory of L. H. W. -- In new New England --
+  The deliverer -- Noctes ambrosianae (poem) -- Hillsboro''s good luck -- Salem Hills
+  to Ellis Island (poem) -- Avunculus -- By Abana and Pharpar (poem) -- Finis -- A
+  village Munchausen -- The artist -- Who else heard it? (poem) -- A drop in the bucket
+  -- The golden tongue of Ireland (poem) -- Piper Tim -- Adeste fideles!'
+title: Hillsboro People
+url: http://www.gutenberg.org/ebooks/13091
