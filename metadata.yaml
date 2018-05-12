@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1781
     wikipedia: http://en.wikipedia.org/wiki/Dorothy_Canfield_Fisher
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13091#Hillsboro-People
 gutenberg_issued: '2004-08-02'
 gutenberg_type: Text
 identifiers:
